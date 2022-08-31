@@ -1,0 +1,14 @@
+Algoritma :
+step 1 deklarasikan volume, jari-jari, pi, dan tinggi
+step 2 masukkan jari-jari = 3, pi =3.14, dan tinggi = 5
+step 3 menghitung volume = pi*(jari-jari)**2 * tinggi
+step 4 tampilkan hasil
+
+Pseudocode:
+deklarasi
+var volume, pi, jari-jari, tinggi
+pi <- 3.14
+jari-jari <- 3
+tinggi <- 5
+volume = pi * (jari-jari)**2 * tinggi
+write(volume)

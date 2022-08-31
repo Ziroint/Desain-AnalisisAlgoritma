@@ -1,0 +1,15 @@
+Algoritma:
+step 1 deklarasikan volume, diameter, pi, dan tinggi
+step 2 masukkan diameter = 5, pi =3.14, dan tinggi = 4
+step 3 menghitung volume = 1/3 * pi * (1/2 diameter)**2 * tinggi
+step 4 tampilkan hasil
+
+Pseudocode:
+deklarasi
+var volume, diamater, pi, tinggi
+pi <- 3.14
+diamater <- 5
+tinggi <- 4
+luas <- pi * (1/2 diameter)**2
+volume <- 1/3 * pi * luas * tinggi
+write(volume)

@@ -1,0 +1,15 @@
+Algoritma :
+dekripsi a =3 dan b =4
+step 1 jika (a mod b = 0), return nilai b sebagai hasil dan stop. jika tidak, lanjut ke step 2
+step 2 kalikan nilai b dengan a, lanjut ke step 3
+step 3 bagi nilai b dengan a, kemudian a*b dibagi dengan b mod a
+step 4 masukkan nilai a*b ke b dan nilai a ke b mod a.
+
+Pseudocode :
+
+while b mod a ≠ 0 do
+x <- b * a 
+r <- b mod a
+4 <- x
+3 <- r
+return a 

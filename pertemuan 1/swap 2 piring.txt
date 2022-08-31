@@ -1,0 +1,19 @@
+ada 2 buah: manggis dan pisang. Manggis di piring1, Pisang di piring 2. Piring 3 kosong.
+
+
+algoritma:
+deskripsi, manggis = x, pisang = y, dan piring 3 = z
+step 1 masukkan nilai x dan y
+step 2 kemudian nilai z ditukar dengan x
+step 3 lalu nilai x ditukar dengan y
+step 4 nilai y ditukar dengan x
+
+pseudocode: 
+x = manggis
+y = pisang
+z = piring3
+
+define swap(x, y)
+z = x
+x = y
+y = z 
